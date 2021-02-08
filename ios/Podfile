@@ -7,12 +7,6 @@ target 'ondemandFitness' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
-
-  target 'ondemandFitnessTests' do
-    inherit! :complete
-    # Pods for testing
-  end
-
   pod 'Firebase/Analytics'
 
   # Enables Flipper.
