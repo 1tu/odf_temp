@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "536615146134",
+    "project_id": "ondemandfitness",
+    "storage_bucket": "ondemandfitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536615146134:android:d4e383a3fff51ccb4ee8b7",
+        "android_client_info": {
+          "package_name": "com.adam.ondemandfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536615146134-ldjbtbvtlq384ebjm0psk7urhid0v88j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAnxlBgNYzQN5LExa4FLldQm2uxPW0OLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536615146134-ldjbtbvtlq384ebjm0psk7urhid0v88j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536615146134-lhfrq7odqj1k006ao7hoiq7r2oo6su26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adam.ondemandfitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
